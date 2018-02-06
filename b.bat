@@ -12,3 +12,6 @@ cd $repository_name
 
 
 git config --global credential.helper '!aws --profile pijush__kanti_biswas codecommit credential-helper $@'
+
+
+#rem fine 
